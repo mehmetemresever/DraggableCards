@@ -15,9 +15,8 @@ This project was changed to manage multiple draggable cards by using a shared cl
 
 Follow this link to try to demo https://codepen.io/mehmetemresever98/pen/KKOabRe
 
-<!--
+
 This code is a fork from a CodePen example, modified to handle multiple cards without using individual IDs. 
 Instead, it works with a class for all cards. Edit: Included "The most recently selected card always stays on top based on selection history."
 Codepen Source Page-> https://codepen.io/dennisivy/pen/VwNEPvY
 Youtube Video of Source -> https://youtu.be/ymDjvycjgUM?si=wFxA63cxaf6-_yF1
--->
