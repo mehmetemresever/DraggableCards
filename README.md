@@ -2,7 +2,7 @@
 
 ## **Draggable Cards**
 
-This project was changed to manage multiple draggable cards by using a shared class.
+This project features draggable cards that can be moved freely around the screen.
 
 ## **Features**
 
